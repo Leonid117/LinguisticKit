@@ -1,0 +1,22 @@
+//
+//  ScriptTable.Cell.i.swift
+//  
+//
+//  Created by Leonid Volkov on 2020-09-01.
+//
+
+extension ScriptTable.RAWScriptTable {
+    var i: Self {
+        self + .cell(
+            type: .vowel,
+            [
+                .Latn: "i",
+                .Cyrl: "и",
+                .Glag: "ⰹ",
+                .Grek: "ι",
+                .Perm: "𐍙",
+                .Runr: "ᛁ",
+            ]
+        )
+    }
+}

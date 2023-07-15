@@ -1,0 +1,405 @@
+# Query: Leonid Volkov
+# Flags: WordMatch
+# ContextLines: 1
+
+80 results - 80 files
+
+Sources/LinguisticKit/mathAlphanumericCharacterPositions.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2022-08-14.
+  6  //
+
+Sources/LinguisticKit/mathAlphanumericTable.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2022-08-14.
+  6  //
+
+Sources/LinguisticKit/MathAlphanumericType.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2022-08-14.
+  6  //
+
+Sources/LinguisticKit/Script.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2018-11-18.
+  6  //
+
+Sources/LinguisticKit/ScriptTable.RAWScriptTable.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2022-04-08.
+  6  //
+
+Sources/LinguisticKit/ScriptTable.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2018-11-18.
+  6  //
+
+Sources/LinguisticKit/ScriptTransformation.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2022-08-14.
+  6  //
+
+Sources/LinguisticKit/scriptTransformationCodes.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2019-03-20.
+  6  //
+
+Sources/LinguisticKit/StringProtocol.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2019-03-20.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.a.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.b.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.c.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.č.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-02.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.ch_x.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.ch.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.ↄ.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.d.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.dh.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2022-08-15.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.e.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.eh.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.f.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.g.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.h.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.i.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.ih.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.j.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2022-08-15.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.k.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.kh.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.l.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.m.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.n.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.o.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.oh.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.ꞷ.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.p.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.ph.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.ps.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.q.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.r.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.s.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.š.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-02.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.sh.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.t.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.th.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.u.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.ŭ.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-02.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.v.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.w.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.x.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.y.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.z.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.ž.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-02.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.zh.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTableCells/ScriptTable.Cell.þ.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTables/ScriptTable.az.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2019-04-04.
+  6  //
+
+Sources/LinguisticKit/ScriptTables/ScriptTable.be.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-02.
+  6  //
+
+Sources/LinguisticKit/ScriptTables/ScriptTable.bs.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-04-17.
+  6  //
+
+Sources/LinguisticKit/ScriptTables/ScriptTable.cnr.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-04-17.
+  6  //
+
+Sources/LinguisticKit/ScriptTables/ScriptTable.el.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-08-26.
+  6  //
+
+Sources/LinguisticKit/ScriptTables/ScriptTable.gr.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-08-30.
+  6  //
+
+Sources/LinguisticKit/ScriptTables/ScriptTable.ja.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-07-20.
+  6  //
+
+Sources/LinguisticKit/ScriptTables/ScriptTable.mk.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-04-17.
+  6  //
+
+Sources/LinguisticKit/ScriptTables/ScriptTable.ru.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2019-03-20.
+  6  //
+
+Sources/LinguisticKit/ScriptTables/ScriptTable.sr.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-04-17.
+  6  //
+
+Sources/LinguisticKit/ScriptTables/ScriptTable.uk.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-04-06.
+  6  //
+
+Sources/LinguisticKit/ScriptTables/RAWScriptTables/ScriptTable.RAWScriptTable.GreekShared.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Sources/LinguisticKit/ScriptTables/RAWScriptTables/ScriptTable.RAWScriptTable.VukGaj.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-01.
+  6  //
+
+Tests/LinguisticKitTests/LinguisticKitTests.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2018-11-17.
+  6  //
+
+Tests/LinguisticKitTests/ScriptTableTests.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-04-05.
+  6  //
+
+Tests/LinguisticKitTests/StringProtocolTests.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2019-03-20.
+  6  //
+
+Tests/LinguisticKitTests/XCTest.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2019-04-03.
+  6  //
+
+Tests/LinguisticKitTests/ScriptTableTests/ScriptTableAzTests.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2019-04-04.
+  6  //
+
+Tests/LinguisticKitTests/ScriptTableTests/ScriptTableBeTests.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-09-02.
+  6  //
+
+Tests/LinguisticKitTests/ScriptTableTests/ScriptTableElTests.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-08-26.
+  6  //
+
+Tests/LinguisticKitTests/ScriptTableTests/ScriptTableGrTests.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-08-30.
+  6  //
+
+Tests/LinguisticKitTests/ScriptTableTests/ScriptTableJaTests.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-07-20.
+  6  //
+
+Tests/LinguisticKitTests/ScriptTableTests/ScriptTableMkTests.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-04-17.
+  6  //
+
+Tests/LinguisticKitTests/ScriptTableTests/ScriptTableRuTests.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2018-11-18.
+  6  //
+
+Tests/LinguisticKitTests/ScriptTableTests/ScriptTableSrTests.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-04-17.
+  6  //
+
+Tests/LinguisticKitTests/ScriptTableTests/ScriptTableUkTests.swift:
+  4  //
+  5: //  Created by Leonid Volkov on 2020-04-06.
+  6  //

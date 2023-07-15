@@ -1,0 +1,22 @@
+//
+//  ScriptTable.Cell.ps.swift
+//  
+//
+//  Created by Leonid Volkov on 2020-09-01.
+//
+
+extension ScriptTable.RAWScriptTable {
+    var ps: Self {
+        self + .cell(
+            type: .consonant,
+            [
+                .Latn: "ps",
+                .Cyrl: "ѱ",
+                .Glag: "ⱂⱄ",
+                .Grek: "ψ",
+                .Perm: "𐍟𐍺",
+                .Runr: "ᛈᛊ",
+            ]
+        )
+    }
+}
